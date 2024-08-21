@@ -17,7 +17,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/pt4.jpg);
+    background-image: url(images/Final\ BG.png);
     background-repeat: no-repeat;
     background-position: 0px 0px;
 }
@@ -405,7 +405,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px) {
     #header{
-        background-image: url(images/pt3.jpg);
+        background-image: url(images/pt4.jpg);
         background-position: right top;
         background-repeat: no-repeat;
         background-attachment: fixed;
