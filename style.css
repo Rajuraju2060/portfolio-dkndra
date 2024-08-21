@@ -294,9 +294,11 @@ p{
     text-align: center;
 }
 
+/*--------------------------------------------
 .work:hover img{
     transform: scale(1.1);
 }
+----------------------------------------------*/
 
 .work:hover .layer{
     height: 100%;
@@ -412,7 +414,7 @@ nav .fa-solid{
            }
 
 #about{
-    margin-top: -70%;
+    margin-top: ;
 }
     
 #big{
